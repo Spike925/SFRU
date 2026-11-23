@@ -97,7 +97,7 @@ per run; without `rsync` large files upload over plain sftp.
 ## Quick start
 
 ```bash
-wget https://github.com/Spike925/SFRU.git
+wget https://github.com/Spike925/SFRU.git sf-rom-upload.sh
 chmod +x sf-rom-upload.sh
 ./sf-rom-upload.sh
 ```
